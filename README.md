@@ -75,6 +75,26 @@ The project includes:
 
 ## Author
 
-Pallavi Reddy
+Pallavi B
 
 Future Interns ML Internship
+
+## Project Visualizations
+
+### Sales Distribution
+![Sales Distribution](graph1.png)
+
+### Store-wise Sales
+![Store-wise Sales](graph2.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](graph3.png)
+
+### Holiday vs Non-Holiday Sales
+![Holiday Sales](graph4.png)
+
+### Feature Importance
+![Feature Importance](graph5.png)
+
+### Actual vs Predicted Sales
+![Prediction](graph6.png)
